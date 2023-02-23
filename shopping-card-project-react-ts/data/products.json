@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "skur": "item0001",
+            "name": "Widget",
+            "price": 9.99
+        },        
+        {
+            "skur": "item0002",
+            "name": "Premium Widget",
+            "price": 19.99
+        },        
+        {
+            "skur": "Deluxe item0003",
+            "name": "Widget",
+            "price": 29.99
+        }
+    ]
+}
